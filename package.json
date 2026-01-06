@@ -1,0 +1,9 @@
+{
+  "name": "mern-ts",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
+  "scripts": {
+    "format": "prettier --write .",
+    "lint": "eslint . --ext .ts,.tsx --max-warnings 0"
+  }
+}
